@@ -4,16 +4,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/longsizhuo/longsizhuo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/longsizhuo/longsizhuo/output/github-contribution-grid-snake.svg">
 </picture>
+
 - 🌱 I’m currently learning in the University of New South Wales
 - 🤔 I’m looking for help with Deeplabv3 of the segementation files
 - 💬 Ask me about simple algorithm topic like `sliding window` or `heap priority queue`
 - 🔭 I'm learning `dynamic programming`
 - 📫 How to reach me: longsizhuo@gmail.com
 - 😄 Pronouns: 龙龙(loong loong)
+- 
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/overview.svg#gh-light-mode-only)
-<!--这个语言我觉得不太好看，而且还要去添加secret-->
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/languages.svg#gh-light-mode-only)
 <!--
 
