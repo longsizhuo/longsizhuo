@@ -19,13 +19,7 @@
 
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-<picture>
-<source media = "(prefeers-color-scheme: dark)" srset="https://github-readme-stats-pi-six-25.vercel.app/api?username=longsizhuo" al>
-</picture>
 
+[![Anurag's GitHub stats](https://github-readme-stats-pi-six-25.vercel.app/api?username=longsizhuo&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats-pi-six-25.vercel.app/api?username=longsizhuo)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-[![Top Langs](https://github-readme-stats-pi-six-25.vercel.app/api/top-langs/?username=longsizhuo&count_private=true&layout=donut-vertical&exclude_repo=longsizhuo.github.io,blogs&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-pi-six-25.vercel.app/api/top-langs/?username=longsizhuo&count_private=true&layout=donut-vertical&exclude_repo=longsizhuo.github.io,blogs&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
