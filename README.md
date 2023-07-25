@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=235&lines=Sizhuo Long!!" alt="Typing SVG" />
 </h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats-longsizhuo123.vercel.app/api?username=longsizhuo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-inky-six-42.vercel.app/api?username=longsizhuo)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-longsizhuo123.vercel.app/api/top-langs/?username=longsizhuo&count_private=true&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-inky-six-42.vercel.app/api/top-langs/?username=longsizhuo&count_private=true&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
