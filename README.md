@@ -20,6 +20,6 @@
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-pi-six-25.vercel.app/api?username=longsizhuo&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-pi-six-25.vercel.app/api?username=longsizhuo&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-pi-six-25.vercel.app/api/top-langs/?username=longsizhuo&count_private=true&layout=donut-vertical&exclude_repo=longsizhuo.github.io,blogs&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-pi-six-25.vercel.app/api/top-langs/?username=longsizhuo&count_private=true&layout=donut-vertical&exclude_repo=longsizhuo.github.io,blogs&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
