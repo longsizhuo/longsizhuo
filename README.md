@@ -11,10 +11,12 @@
 - 🔭 I'm learning `dynamic programming`
 - 📫 How to reach me: longsizhuo@gmail.com
 - 😄 Pronouns: 龙龙(loong loong)
-  
+
+![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 ##### OS
 [![](https://img.shields.io/badge/macos%20-33aadd?style=flat-square&logo=apple&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/windows%20-010203?style=flat-square&logo=windows&logoColor=ffffff)](https://www.archlinux.org/)
