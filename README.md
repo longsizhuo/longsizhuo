@@ -13,6 +13,9 @@
 - 📫 How to reach me: longsizhuo@gmail.com
 - 😄 Pronouns: 龙龙(loong loong)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/languages.svg#gh-dark-mode-only)
