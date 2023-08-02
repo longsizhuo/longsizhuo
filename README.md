@@ -12,8 +12,15 @@
 - 🔭 I'm learning `dynamic programming`
 - 📫 How to reach me: longsizhuo@gmail.com
 - 😄 Pronouns: 龙龙(loong loong)
+
+![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 <details>
-<summary>Wakatime 统计信息</summary>
+<summary>Wakatime</summary>
+  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%201%20min-blue)
 
@@ -103,11 +110,9 @@ Solidity                 1 repo              █░░░░░░░░░░�
 
 </details>
 
-![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
+<details>
+<summary>Some badges</summary>
+  
 ##### OS
 [![](https://img.shields.io/badge/macos%20-33aadd?style=flat-square&logo=apple&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/windows%20-010203?style=flat-square&logo=windows&logoColor=ffffff)](https://www.archlinux.org/)
@@ -118,6 +123,8 @@ Solidity                 1 repo              █░░░░░░░░░░�
 [![](https://img.shields.io/badge/-Jupyter-orange.svg?style=flat-square&logo=jupyter&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Solidity-purple.svg?style=flat-square&logo=solidity&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Cpp-indigo.svg?style=flat-square&logo=c&logoColor=ffffff)](https://reactjs.org/)
+
+</details>
 
 <!--
 
