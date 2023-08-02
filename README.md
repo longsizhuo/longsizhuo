@@ -12,7 +12,8 @@
 - 🔭 I'm learning `dynamic programming`
 - 📫 How to reach me: longsizhuo@gmail.com
 - 😄 Pronouns: 龙龙(loong loong)
-
+<details>
+<summary>Wakatime 统计信息</summary>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%201%20min-blue)
 
@@ -92,7 +93,6 @@ Solidity                 1 repo              █░░░░░░░░░░�
 ```
 
 
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/longsizhuo/longsizhuo/main/assets/bar_graph.png)
@@ -100,6 +100,8 @@ Solidity                 1 repo              █░░░░░░░░░░�
 
  Last Updated on 02/08/2023 06:11:53 UTC
 <!--END_SECTION:waka-->
+
+</details>
 
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/overview.svg#gh-light-mode-only)
