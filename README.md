@@ -1,5 +1,16 @@
+<div aligin = "center">
+<img src ="https://readme-typing-svg.demolab.com?font=Borel&size=40&duration=1000&repeat=false&pause=500&color=F7AD3F&center=true&vCenter=true&width=500&height=100&lines=Hi+there;I'm+Sizhuo+Long;Welcome+to+my+GitHub;You're the:">
+</img>
+  
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Borel&size=40&duration=1000&pause=500&color=F7AD3F&center=true&vCenter=true&width=500&height=100&lines=Hi+there;I'm+Sizhuo+Long;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
+![longsizhuo](https://count.getloli.com/get/@longsizhuo?theme=asoul)
+-->
+
+<img src="https://count.getloli.com/get/@longsizhuo?theme=rule34" alt="longsizhuo" width="500"/>
+
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/longsizhuo/longsizhuo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/longsizhuo/longsizhuo/output/github-contribution-grid-snake.svg">
