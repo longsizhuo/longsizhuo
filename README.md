@@ -28,7 +28,8 @@
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
+# 点击展开
+# Press follow to see more
 <details>
 <summary>Wakatime</summary>
   
