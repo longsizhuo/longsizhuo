@@ -2,22 +2,22 @@
 <img src ="https://readme-typing-svg.demolab.com?font=Borel&size=40&duration=1000&repeat=false&pause=500&color=F7AD3F&center=true&vCenter=true&width=500&height=100&lines=Hi+there;I'm+Sizhuo+Long;Welcome+to+my+GitHub;You're the:">
 </img>
 
-
 <!--
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Borel&size=40&duration=1000&pause=500&color=F7AD3F&center=true&vCenter=true&width=500&height=100&lines=Hi+there;I'm+Sizhuo+Long;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+--
 
 ![longsizhuo](https://count.getloli.com/get/@longsizhuo?theme=asoul)
+
 -->
+<div align="center">
 
-<img src="https://count.getloli.com/get/@longsizhuo?theme=rule34" alt="longsizhuo" width="200"/>
+[<img src="assets/smoking0man3_with_background.gif">](https://twitter.com/1015yzhu)
 
+</div>
 
-  <a href="https://twitter.com/1015yzhu">
-    <img src="https://github.com/longsizhuo/longsizhuo/assets/114939201/6aad34eb-7373-4ef5-9872-d8040f278164" width="400">
-  </a>
-  <br>
   
-*Supported by [YZHU](https://twitter.com/1015yzhu)*
+*Image courtesy of [ythu](https://twitter.com/1015yzhu); copyright held by him*
 
 </div>
 <picture>
