@@ -2,7 +2,6 @@
 <img src ="https://readme-typing-svg.demolab.com?font=Borel&size=40&duration=1000&repeat=false&pause=500&color=F7AD3F&center=true&vCenter=true&width=500&height=100&lines=Hi+there;I'm+Sizhuo+Long;Welcome+to+my+GitHub;You're the:">
 </img>
 <img src="https://count.getloli.com/get/@longsizhuo?theme=rule34" alt="longsizhuo" width="300"/>
-
 </div>
 
 <!--
@@ -19,6 +18,10 @@
 
 </div>
 
+<div style="width: 100%; height: 200px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+  
+  [<img src="assets/smoking0man3_with_background.gif" style="width: auto; height: auto;">](https://twitter.com/1015yzhu)
+</div>
   
 *Image courtesy of [ythu](https://twitter.com/1015yzhu); copyright held by him*
 
