@@ -1,6 +1,9 @@
 <div aligin = "center">
 <img src ="https://readme-typing-svg.demolab.com?font=Borel&size=40&duration=1000&repeat=false&pause=500&color=F7AD3F&center=true&vCenter=true&width=500&height=100&lines=Hi+there;I'm+Sizhuo+Long;Welcome+to+my+GitHub;You're the:">
 </img>
+<img src="https://count.getloli.com/get/@longsizhuo?theme=rule34" alt="longsizhuo" width="400"/>
+
+</div>
 
 <!--
 
