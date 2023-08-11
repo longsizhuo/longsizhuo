@@ -36,7 +36,7 @@
 - 🌱 I’m currently learning in the University of New South Wales
 - 🤔 I’m looking for help with Deeplabv3 of the segementation files
 - 💬 Ask me about simple algorithm topic like `sliding window` or `heap priority queue`
-- 🔭 I'm learning `dynamic programming`
+- 🔭 I'm working on the [hello-algo](https://www.hello-algo.com/) project
 - 📫 How to reach me: longsizhuo@gmail.com
 - 😄 Pronouns: 龙龙(loong loong)
 
