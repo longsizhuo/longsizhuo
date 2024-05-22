@@ -33,7 +33,8 @@
 </picture>
 
 - 🌱 I’m currently learning in the University of New South Wales
-- 🔭 I'm working on the [hello-algo](https://www.hello-algo.com/) project
+- 🔭 I'm working on the [hello-algo](https://www.hello-algo.com/)  and the [SpotFinder](longsizhuo.com)project
+- 📕 Here's my blog: [Blog](longsizhuo.github.io)
 - 📫 How to reach me: longsizhuo@gmail.com
 - 😄 Pronouns: 龙龙(loong loong)
 
