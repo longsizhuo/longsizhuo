@@ -33,9 +33,9 @@
 </picture>
 
 - 🌱 I’m currently learning in the University of New South Wales
-- 🔭 I'm working on the [hello-algo](https://www.hello-algo.com/)  and the [SpotFinder](longsizhuo.com)project
-- 📕 Here's my blog: [Blog](longsizhuo.github.io)
-- 🪭 And my resume: [Resume](me.longsizhuo.com)
+- 🔭 I'm working on the [hello-algo](https://www.hello-algo.com/)  and the [SpotFinder](https://longsizhuo.com)project
+- 📕 Here's my blog: [Blog](https://longsizhuo.github.io)
+- 🪭 And my resume: [Resume](https://me.longsizhuo.com)
 - 📫 How to reach me: longsizhuo@gmail.com
 
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/overview.svg#gh-dark-mode-only)
