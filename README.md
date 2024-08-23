@@ -42,9 +42,9 @@
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=longsizhuo)](https://github.com/anuraghazra/github-readme-stats)
 <details>
-<summary>点击展开 Wakatime</summary>
+<summary>click to see Wakatime</summary>
   
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-844%20hrs%201%20min-blue)
@@ -134,21 +134,6 @@ C++                      1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 </details>
 
-<details>
-<summary>Some badges</summary>
-  
-##### OS
-[![](https://img.shields.io/badge/macos%20-33aadd?style=flat-square&logo=apple&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/windows%20-010203?style=flat-square&logo=windows&logoColor=ffffff)](https://www.archlinux.org/)
-
-##### Programming language
-[![](https://img.shields.io/badge/-Go-blue.svg?style=flat-square&logo=go&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Python-green.svg?style=flat-square&logo=python&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Jupyter-orange.svg?style=flat-square&logo=jupyter&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Solidity-purple.svg?style=flat-square&logo=solidity&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Cpp-indigo.svg?style=flat-square&logo=c&logoColor=ffffff)](https://reactjs.org/)
-
-</details>
 
 <!--
 
