@@ -32,7 +32,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/longsizhuo/longsizhuo/output/github-contribution-grid-snake.svg">
 </picture>
 
-- 🌱 I’m currently learning in the University of New South Wales
+- 🌱 I’m currently work for the University of New South Wales
 - 🔭 I'm working on the [hello-algo](https://www.hello-algo.com/)  and the [SpotFinder](https://longsizhuo.com)project
 - 📕 Here's my blog: [Blog](https://longsizhuo.github.io)
 - 🪭 And my resume: [Resume](https://me.longsizhuo.com)
