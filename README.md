@@ -50,7 +50,11 @@
 
 These are our really cool sponsors!
 
-<!-- sponsors --><!-- sponsors -->
+<!-- sponsors -->
+
+<!-- sponsors -->
+
+
 <details>
 <summary>**click me to see some Interesting statistics**</summary>
   
