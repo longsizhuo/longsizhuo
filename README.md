@@ -51,7 +51,6 @@
 These are our really cool sponsors!
 
 <!-- sponsors -->
-
 <!-- sponsors -->
 
 
