@@ -1,0 +1,22 @@
+name: Update GitHub Sponsors in README
+
+on:
+  schedule:
+    - cron: 30 15 * * 0-6
+  workflow_dispatch:
+
+jobs:
+  update-sponsors:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Add GitHub Sponsors to README
+        uses: JamesIves/github-sponsors-readme-action@v1.5.6
+        with:
+          token: ${{ secrets.SPONSOR_PAT }}
+          file: README.md
+          marker: sponsors
+          fallback: "No sponsors yet. Be the first one!"
+          include-private: true
