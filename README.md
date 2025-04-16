@@ -140,7 +140,7 @@ TeX                      1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/longsizhuo/longsizhuo/main/assets/bar_graph.png)
 
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka!-->
 
 </details>
 
