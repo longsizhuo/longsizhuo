@@ -25,6 +25,13 @@
   
 *Image courtesy of [ythu](https://twitter.com/1015yzhu); copyright held by him*
 
+> ⚠️ **Note:**  
+> 1. The information displayed in this README, including the heatmap-snake animation, does **not** reflect real-time activity.  
+> 2. All data is updated on a **delayed, scheduled basis**, which may cause several hours or even days of discrepancy.  
+> 3. This profile is maintained for technical presentation only. Contribution visualizations are updated via automation and may not represent actual coding schedules.
+
+
+
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/longsizhuo/longsizhuo/output/github-contribution-grid-snake-dark.svg">
@@ -33,10 +40,9 @@
 </picture>
 
 - 🌱 I’m currently work for the University of New South Wales
-- 🔭 I'm working on the [hello-algo](https://www.hello-algo.com/)  and the [SpotFinder](https://longsizhuo.com)project
+- 🔭 I'm working on the [hello-algo](https://www.hello-algo.com/en/)  and the [SpotFinder](https://longsizhuo.com) project
 - 📕 Here's my blog: [Blog](https://longsizhuo.github.io)
 - 🪭 And my resume: [Resume](https://me.longsizhuo.com)
-- 📫 How to reach me: longsizhuo@gmail.com
 
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/overview.svg#gh-light-mode-only)
