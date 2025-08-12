@@ -40,9 +40,9 @@
 </picture>
 
 - 🌱 I’m currently work for the University of New South Wales
-- 🔭 I'm working on the [hello-algo](https://www.hello-algo.com/en/)  and the [SpotFinder](https://longsizhuo.com) project
+- 🔭 I'm working on the [hello-algo](https://www.hello-algo.com/en/)  and the ～～[SpotFinder](https://longsizhuo.com)～～ project
 - 📕 Here's my blog: [Blog](https://longsizhuo.github.io)
-- 🪭 And my resume: [Resume](https://me.longsizhuo.com)
+- 🪭 And my resume: [Resume](https://longsizhuo.com)
 
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/overview.svg#gh-light-mode-only)
