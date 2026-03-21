@@ -36,11 +36,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/longsizhuo/longsizhuo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/longsizhuo/longsizhuo/output/github-contribution-grid-snake.svg">
 </picture>
-
-- 🌱 I’m currently work for the University of New South Wales
-- 🔭 I'm working on the [hello-algo](https://www.hello-algo.com/en/)  and the ~~[SpotFinder](https://longsizhuo.com)~~ project
+- 🌱 I'm working in [Kuaishou/Kwai](https://www.kuaishou.com/en) 
+- 🔭 I'm working on the [hello-algo](https://www.hello-algo.com/en/)  and the [Involution Hell](https://involutionhell.com) project
 - 📕 Here's my blog: [Blog](https://longsizhuo.github.io)
-- 🪭 And my resume: [Resume](https://longsizhuo.com)
+- 🪭 And my [Website](https://longsizhuo.com)
 
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/overview.svg#gh-light-mode-only)
