@@ -46,18 +46,17 @@
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=longsizhuo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
--->
+[![GitHub PR and review metrics for longsizhuo](https://github-readme-stats.vercel.app/api?username=longsizhuo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub overview stats for longsizhuo (moltack theme)](https://github-readme-stats-pi-six-25.vercel.app/api?username=longsizhuo&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top languages used by longsizhuo](https://github-readme-stats-pi-six-25.vercel.app/api/top-langs/?username=longsizhuo&count_private=true&layout=donut-vertical&exclude_repo=longsizhuo.github.io,blogs&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Sponsors
 
 These are our really cool sponsors!
 
 <!-- sponsors -->No sponsors yet. Be the first one!<!-- sponsors -->
-
-<!--
-
-[![Anurag's GitHub stats](https://github-readme-stats-pi-six-25.vercel.app/api?username=longsizhuo&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-pi-six-25.vercel.app/api/top-langs/?username=longsizhuo&count_private=true&layout=donut-vertical&exclude_repo=longsizhuo.github.io,blogs&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
--->
