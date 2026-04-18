@@ -22,14 +22,6 @@
 </div>
   
 *Image courtesy of [ythu](https://twitter.com/1015yzhu); copyright held by him*
-
-> ⚠️ **Note:**  
-> 1. The information displayed in this README, including the heatmap-snake animation, does **not** reflect real-time activity.  
-> 2. All data is updated on a **delayed, scheduled basis**, which may cause several hours or even days of discrepancy.  
-> 3. This profile is maintained for technical presentation only. Contribution visualizations are updated via automation and may not represent actual coding schedules.
-
-
-
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/longsizhuo/longsizhuo/output/github-contribution-grid-snake-dark.svg">
