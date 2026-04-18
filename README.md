@@ -142,4 +142,4 @@ TeX                      1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 These are our really cool sponsors!
 
-<!-- sponsors -->No sponsors yet. Be the first one!<!-- sponsors -->
+<!-- sponsors --><a href="https://github.com/TinyAlmond"><img src="https:&#x2F;&#x2F;github.com&#x2F;TinyAlmond.png" width="60px" alt="User avatar: Xiaoyu Su" /></a><!-- sponsors -->
