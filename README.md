@@ -28,6 +28,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/longsizhuo/longsizhuo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/longsizhuo/longsizhuo/output/github-contribution-grid-snake.svg">
 </picture>
+
 - 🌱 I'm working in [Kuaishou/Kwai](https://www.kuaishou.com/en) 
 - 🔭 I'm working on the [hello-algo](https://www.hello-algo.com/en/)  and the [Involution Hell](https://involutionhell.com) project
 - 📕 Here's my blog: [Blog](https://longsizhuo.github.io)
@@ -39,11 +40,6 @@
 ![](https://raw.githubusercontent.com/longsizhuo/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 [![GitHub PR and review metrics for longsizhuo](https://github-readme-stats.vercel.app/api?username=longsizhuo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub overview stats for longsizhuo (moltack theme)](https://github-readme-stats-pi-six-25.vercel.app/api?username=longsizhuo&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top languages used by longsizhuo](https://github-readme-stats-pi-six-25.vercel.app/api/top-langs/?username=longsizhuo&count_private=true&layout=donut-vertical&exclude_repo=longsizhuo.github.io,blogs&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Sponsors
 
