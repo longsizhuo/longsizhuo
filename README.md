@@ -40,4 +40,4 @@
 
 These are our really cool sponsors!
 
-<!-- sponsors --><a href="https://github.com/TinyAlmond"><img src="https:&#x2F;&#x2F;github.com&#x2F;TinyAlmond.png" width="60px" alt="User avatar: Xiaoyu Su" /></a><!-- sponsors -->
+<!-- sponsors --><a href="https://github.com/TinyAlmond"><img src="https:&#x2F;&#x2F;github.com&#x2F;TinyAlmond.png" width="60px" alt="User avatar: Xiaoyu Su" /></a><a href="https://github.com/CeitherNSW"><img src="https:&#x2F;&#x2F;github.com&#x2F;CeitherNSW.png" width="60px" alt="User avatar: Ceither" /></a><!-- sponsors -->
