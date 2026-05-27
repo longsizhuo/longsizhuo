@@ -34,8 +34,6 @@
 - 📕 Here's my blog: [Blog](https://longsizhuo.github.io)
 - 🪭 And my [Website](https://longsizhuo.com)
 
-[![GitHub PR and review metrics for longsizhuo](https://github-readme-stats.vercel.app/api?username=longsizhuo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Sponsors
 
 These are our really cool sponsors!
